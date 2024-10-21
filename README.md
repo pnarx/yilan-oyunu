@@ -14,4 +14,4 @@ Bu proje, klasik Yılan Oyunu'nun Python programlama dilinde geliştirilmiş bir
 1. Bu projeyi klonlayın veya indirin.
 2. Python 3.x'in sisteminizde kurulu olduğundan emin olun.
 
-![Uploading yilan-oyunu.png…]()
+![yilan-oyunu](https://github.com/user-attachments/assets/370ed8d1-a998-4584-8080-63b41fda0822)
